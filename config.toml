@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Distill energy · Memory and all feelings felt · Pour into coffee"
+title = "Distill energy · Memory and feelings felt · Pour into coffee"
 theme = "hermit"
 publishDir = "docs"
